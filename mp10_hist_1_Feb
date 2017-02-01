@@ -1,0 +1,28 @@
+    1  cd desktop
+    2  cd mp10/
+    3  git remote add origin https://github.com/gbrown50/mp10.git
+    4  git push -u origin master
+    5  git init
+    6  git push
+    7   git push --set-upstream origin master
+    8  cd desktop
+    9  cd mp10/
+   10  git commit
+   11  git add .
+   12  git push
+   13  git push --set-upstream origin master
+   14  git push -u origin master
+   15  cd desktop
+   16  cd mp10/
+   17  git init
+   18  git add
+   19  git add .
+   20  git commit
+   21  git commit -m "First and second files"
+   22  git push
+   23  git remote add origin https://github.com/gbrown50/mp10.git
+   24  git push -u origin master
+   25  git log
+   26  git status
+   27  history
+   28  history > mp10_hist

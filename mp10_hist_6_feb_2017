@@ -1,0 +1,67 @@
+    1  cd documents
+    2  cdc Documents
+    3   cd /cydrive/c/
+    4  pwd
+    5  cd Documents
+    6   cd /cydrive/c/users/t00185285
+    7  cd /cydrive/c/users/t00185285
+    8  cd /cygdrive/c/users/t00185285
+    9  pwd
+   10  cd project
+   11  cd Documents/
+   12  cd project/
+   13  git init
+   14  touch afile.txt
+   15  git status
+   16  alias ga='git add.'
+   17  alias glo ='git log --oneline'
+   18  alias glo='git log --oneline'
+   19  alias gs='git status'
+   20  glo
+   21  gs
+   22  ga
+   23  alias ga='git add .'
+   24  ga
+   25  gs
+   26  git commit -m"Initial commit"
+   27  gs
+   28  glo
+   29  git log
+   30  mkdir fromgit
+   31  cd fromgit/
+   32  git l;og
+   33  gl
+   34  git log
+   35  pwd
+   36  cd..
+   37  cd..
+   38  cd.
+   39  cd.
+   40  pwd
+   41  cd//
+   42  cd/
+   43  cd ..
+   44  cd ..
+   45  cd..
+   46  pwd
+   47  mkdir morefromgit
+   48  cd morefromgit/
+   49  git log
+   50  git clone https://github.com/gbrown50/mp10.git
+   51  git staus
+   52  git status
+   53  git log
+   54  glo
+   55  gs
+   56  cd ..
+   57  cd project/
+   58  ls
+   59  ga
+   60  git log
+   61  git status
+   62  history
+   63  history < mp10_hist
+   64  ls
+   65  ls
+   66  cat mp_10hist
+   67  history > mp10_hist
